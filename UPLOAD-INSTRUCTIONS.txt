@@ -1,0 +1,17 @@
+MAYBO LIGHTHOUSE — TRUE COST OF RISK
+
+Upload the folder named:
+
+true-cost-of-risk
+
+to the ROOT of the Maybo-Resources repository.
+
+After upload, GitHub should show:
+
+/true-cost-of-risk/index.html
+
+Do not open the folder and upload index.html by itself.
+Do not upload the enclosing true-cost-of-risk-package folder.
+
+Expected live URL:
+https://johnlambert-maybo.github.io/Maybo-Resources/true-cost-of-risk/
