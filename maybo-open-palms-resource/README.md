@@ -39,3 +39,7 @@ For a fully offline deployment, self-host the chosen font and video thumbnail/em
 ## Content note
 
 Open PALMS™ is a Maybo model. The page is an introductory resource and does not replace Maybo training or organisational procedures.
+
+
+## Hero image
+The hero uses `assets/open-palms-scenario.png`. Replace this file with another image using the same filename to update it without changing the HTML.
